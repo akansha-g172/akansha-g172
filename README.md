@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Akansha Gupta 👋
 
 🎓 2nd year Computer Science Engineering Student at IIIT Kalyani
