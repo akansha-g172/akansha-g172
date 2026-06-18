@@ -40,6 +40,8 @@ I enjoy designing APIs, working with databases, and building systems that solve 
 **Concepts**
 - Data Structures & Algorithms
 - Backend Architecture
+- OOPs
+- Computer organisation and architecture
 
 ---
 
@@ -68,7 +70,7 @@ AI-enabled flood risk prediction and emergency alert platform for disaster respo
 ## 🌱 Currently Learning
 
 - Advanced Backend Development
-- Exploring Blockchain and Web3
+- Exploring AI-ML
 
 ---
 
