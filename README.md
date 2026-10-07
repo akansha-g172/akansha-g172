@@ -1,6 +1,6 @@
 # Hi, I'm Akansha Gupta 👋
 
-🎓 2nd year Computer Science Engineering Student at IIIT Kalyani
+🎓 3rd year Computer Science Engineering Student at IIIT Kalyani
 💻 Backend Developer (Python)  
 🚀 Passionate about building scalable backend systems and real-world applications
 
